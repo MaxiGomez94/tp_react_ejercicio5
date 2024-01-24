@@ -1,0 +1,12 @@
+body{
+  background: linear-gradient(to top left, #0066ff 0%, #33cc33 66%);
+}
+
+#root{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+main{
+  flex-grow: 1;
+}
